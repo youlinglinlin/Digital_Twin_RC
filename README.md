@@ -3,4 +3,4 @@ Digital twin of nonlinear system based on reservoir computing (RC) with an exter
 
 Each folder contains codes for one target system, including the codes for training, predicting, and optimization. 
 
-Please feel free to contact me if you have any questions or need me to add more comments to the codes.
+Code for paper: Reservoir computing as digital twins for nonlinear dynamical systems
